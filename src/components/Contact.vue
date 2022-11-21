@@ -1,6 +1,6 @@
 <template>
 <div>
-<form name="contact" method="POST" data-netlify="true">
+<form action="POST" data-netlify="true">
   <p>
    <input type="text" name="name" placeholder="Name" />   
   </p>
