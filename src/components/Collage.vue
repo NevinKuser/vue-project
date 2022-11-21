@@ -1,14 +1,14 @@
 <template>
      <section data-aos="fadeIn">
             <ul>
-                <li><img src="resources/img/incense_burning.jpg" alt="Balinese prayer offering"></li>
-                <li><img src="resources/img/TyaNevin_Sebatu.jpg" alt="Praying"></li>
-                <li><img src="resources/img/Tya_offerings4.jpg" alt="Balinese spiritual tools"></li>
-                <li><img src="resources/img/B1.jpg" alt="Balinese bells"></li>
-                <li><img src="resources/img/Tya_sebatu_morning_light.jpg" alt="Sebatu"></li>
-                <li><img src="resources/img/Tya_statue.jpg" alt="East Bali"></li>
-                <li><img src="resources/img/trekking2.jpg" alt="Trekking in Bali"></li>
-                <li><img src="resources/img/ulu/3.jpeg" alt="Uluwatu cliffs"></li>
+                <li><img src="../../resources/img/incense_burning.jpg" alt="Balinese prayer offering"></li>
+                <li><img src="../../resources/img/TyaNevin_Sebatu.jpg" alt="Praying"></li>
+                <li><img src="../../resources/img/Tya_offerings4.jpg" alt="Balinese spiritual tools"></li>
+                <li><img src="../../resources/img/B1.jpg" alt="Balinese bells"></li>
+                <li><img src="../../resources/img/Tya_sebatu_morning_light.jpg" alt="Sebatu"></li>
+                <li><img src="../../resources/img/Tya_statue.jpg" alt="East Bali"></li>
+                <li><img src="../../resources/img/trekking2.jpg" alt="Trekking in Bali"></li>
+                <li><img src="../../resources/img/ulu/3.jpeg" alt="Uluwatu cliffs"></li>
             </ul>
         </section>
 </template>

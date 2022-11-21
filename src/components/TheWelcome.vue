@@ -73,7 +73,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
 		  msg_p_2="This includes a blessing and purification in the beginning of the session to relieve negative energy and anxiety. One of the main functions of the psycic reading is to uncover the steps needed to reach your goals and your fullest potential." 
 		  phoneNumber="WhatsApp: +62 83119517779">
 		  <template #image>
-			<img src="resources/img/ulu/5.jpeg" id="pic">
+			<img src="../../resources/img/ulu/5.jpeg" id="pic">
 		</template>
 		  </Card>
 
@@ -81,28 +81,28 @@ I'm always working hard to protect the forest and farmland in my village and pro
 		  msg_h2="We can help with any illness" 
 		  msg_p_1="We treat cancer, autoimmune disorders, diabetes, weight loss, and can greatly improve mental wellness. This is done through diet, natural medicine, energy healing, yoga, and pranayama."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
-			<img src="resources/img/Tya_offerings4.jpg" id="pic">
+			<img src="../../resources/img/Tya_offerings4.jpg" id="pic">
 		</template></Card>
 
 	<Card msg_h1="Chakra cleansing ceremony" 
 		  msg_h2="An unforgettable experience" 
 		  msg_p_1="Jero Mangku Tya has been guiding chakra cleansing energy purification ceremonies for years. A heart-warming experience with an energy that is felt deep in the soul. Message Nevin at the number below to book a space at the next ceremony. We're also doing this online once a week via zoom."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
-			<img src="resources/anime/bright_moon.png" alt="Kitty sitting under the moonlight." id="pic">
+			<img src="../../resources/anime/bright_moon.png" alt="Kitty sitting under the moonlight." id="pic">
 		</template></Card>
 
 		<Card msg_h1="Melukat" 
 		  msg_h2="Water blessing for individuals or groups" 
 		  msg_p_1="Jero Tya has a special connection to Sebatu water temple because her husband developed a love for it when he was experiencing heavy anxiety in 2013. He noticed that every time he went there he would feel better. Then it became apparent that the place has a very special energy force concentrated like a focused laser beam down at the bottom in the waterfall. This is where Jero Tya and her husband Nevin prefer to bring people who want to experience a powerful cleansing water blessing for releasing negative energy and anxiety. The benefit of going here is that you will leave feeling lighter and refreshed."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
-			<img src="resources/img/Audreys_family.jpg" alt="Family praying with Jero Tya." id="pic">
+			<img src="../../resources/img/Audreys_family.jpg" alt="Family praying with Jero Tya." id="pic">
 		</template></Card>
 		<Card msg_h1="Spiritual Advisor" 
 		  msg_h2="Counseling to get through tough times and reach your goals" 
 		  msg_p_1="Jero Tya has been guiding people with spiritual advice for years. A private consultation includes talking about what is troubling you and about your goals and where you want to be physically, mentally, spiritually, and emotionally. Please take notes.
 		  You will receive recommendations for daily practices to raise your vibration."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
-			<img src="resources/img/incense_burning.jpg" alt="" id="pic">
+			<img src="../../resources/img/incense_burning.jpg" alt="" id="pic">
 		</template></Card>
 
 		<CardStory msg_h1="Her Story" 
@@ -146,7 +146,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
                 	Indonesia - 
                  Or via Wise using email: marantya87@gmail.com">
                  <template #image>
-			<img src="resources/img/sawah.jpg" alt="" id="pic"></template></Card>
+			<img src="../../resources/img/sawah.jpg" alt="" id="pic"></template></Card>
     <Collage /> 
     
 		<Footer></Footer>

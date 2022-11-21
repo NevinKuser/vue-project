@@ -1,6 +1,6 @@
 <template>
 <footer>
-        <img src="src/assets/logo.svg" alt="Vue logo">
+        <img src="../assets/logo.svg" alt="Vue logo">
         <p>✨ Copyright &copy; 2022 by Jero Mangku Istri Tya.<br> All rights reserved.</p>
     </footer>
 </template>
