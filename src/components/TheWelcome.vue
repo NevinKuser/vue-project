@@ -60,7 +60,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
     <template #heading>Support Me</template>
 
     I rely on community backing to improve the quality of life in my village. You can sponsor my village
-   by donating <a href="https://wise.com" target="_blank" rel="noopener">here</a> with Wise transfer using recipient marantya87@gmail.com or use my local bank account: BCA 1350424446 
+    <a href="https://wise.com" target="_blank" rel="noopener">by opening this page to make a donation</a> with Wise transfer using recipient marantya87@gmail.com or use my local bank account: BCA 1350424446 
     
   </WelcomeItem>
   <main>
