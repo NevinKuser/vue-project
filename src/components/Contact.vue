@@ -1,6 +1,8 @@
 <template>
 <div>
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+
+  <input value="contact" name="form-name" type="hidden" />
   <p>
    <input type="text" name="name" placeholder="Name" />   
   </p>
@@ -33,7 +35,7 @@ img { height: 35vh; width: auto; }
 /*----------------------------------------*/
 
 ::placeholder {
-color: rgb(0, 255, 51);
+color: rgb(102, 125, 107);
 opacity: .6; 
 }
 
