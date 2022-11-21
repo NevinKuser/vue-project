@@ -48,24 +48,26 @@ defineProps({
 }
 .card h1 {
 	margin-bottom: 1rem;
-	color: #000;
+	color: #fff;
 	font-size: 24px;
-	background-color: lime;
+	background-color: rgb(109, 114, 109);
 	border-radius: .5rem;
 	padding: 7px 10px;
 	width: fit-content;
-	border: solid 1px purple;
+	border: solid 1px #fff;
+	line-height: 2.2rem;
 }
 .card h2 {
 color:#fff;
-background-color: purple;
+background-color: rgb(202, 175, 202);
 border-radius: .8rem;
 padding-left: 1rem;
-border: solid 1px lime;
+border: solid 1px #fff;
 font-size: 24px;
 margin-bottom: 16px;
 width: fit-content;
 padding: 5px 10px;
+line-height: 2.2rem;
 }
 
 .card p {

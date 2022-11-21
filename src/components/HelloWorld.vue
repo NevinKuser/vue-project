@@ -12,7 +12,7 @@ defineProps({
     <h1 class="green">{{ msg }}</h1>
     <img src="../../resources/img/new/Tya_offerings1.jpg" alt="Jero Tya using antique prayer tools">
     <h3>
-      Welcome to Jero Mangku Istri Tya's website!
+      
     </h3>
   </div>
 </template>

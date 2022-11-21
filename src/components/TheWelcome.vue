@@ -12,6 +12,7 @@ import Footer from './Footer.vue'
 </script>
 
 <template>
+  <div id="top">
   <WelcomeItem>
     <template #icon>
       <DocumentationIcon />
@@ -25,7 +26,7 @@ import Footer from './Footer.vue'
   <li>Water blessing (melukat)</li>
 </ul>
   </WelcomeItem>
-
+</div>
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
@@ -52,7 +53,7 @@ import Footer from './Footer.vue'
     <template #heading>Community</template>
 I'm always working hard to protect the forest and farmland in my village and provide my community with food, medical supplies, and quality education.
   </WelcomeItem>
-
+<div id="bottom">
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
@@ -63,6 +64,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
     <a href="https://wise.com" target="_blank" rel="noopener">by opening this page to make a donation</a> with Wise transfer using recipient marantya87@gmail.com or use my local bank account: BCA 1350424446 
     
   </WelcomeItem>
+</div>
   <main>
     <RouterView />
     <Card 
@@ -78,8 +80,8 @@ I'm always working hard to protect the forest and farmland in my village and pro
 		  </Card>
 
 	<Card msg_h1="Health treatments" 
-		  msg_h2="We can help with any illness" 
-		  msg_p_1="We treat cancer, autoimmune disorders, diabetes, weight loss, and can greatly improve mental wellness. This is done through diet, natural medicine, energy healing, yoga, and pranayama."  
+		  msg_h2="I can help you get healthy" 
+		  msg_p_1="I treat cancer, autoimmune disorders, diabetes, weight loss, and can greatly improve mental wellness. This is done through diet, natural medicine, energy healing, yoga, and pranayama."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
 			<img src="../../resources/img/Tya_offerings4.jpg" alt="Prayers in Bali" id="pic">
 		</template></Card>
@@ -155,14 +157,25 @@ I'm always working hard to protect the forest and farmland in my village and pro
 
 
 <style scoped>
+div #top { margin-top: 100px; }
+div #bottom { margin-bottom: 100px; }
 #pic {
 	height: auto;
 	width: 60%;
 	border-radius: 1rem;
 	margin: 6% 0 2% 20%;
-  border: 1.5px solid lime;
+  border: 1.5px solid black;
 }
 
 ul { padding: 0; margin: 0; list-style:circle;}
 ul li { padding: 0px; margin: 0; display: list-item;}
+
+@media(max-width: 1000px) {
+#pic {
+	height: auto;
+	width: 80%;
+	border-radius: 1rem;
+	margin: 6% 10% 2% 10%;
+  border: 1.5px solid black;
+}}
 </style>

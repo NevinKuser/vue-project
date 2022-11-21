@@ -99,4 +99,11 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
+@media(max-width: 1000px) {
+.logo {
+  display: block;
+  margin: 0 auto 2rem;
+  height: 55px;
+  width: 55px;
+}}
 </style>

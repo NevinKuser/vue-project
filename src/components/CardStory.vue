@@ -42,20 +42,20 @@ defineProps({
 }
 .card-story h1 {
 	margin-bottom: 1rem;
-	color: #000;
+	color: #fff;
 	font-size: 24px;
-	background-color: limegreen;
+	background-color: rgb(109, 114, 109);
 	border-radius: .5rem;
 	padding: 7px 10px;
 	width: fit-content;
-	border: solid 2px #76645f;
+	border: solid 2px white;
 }
 .card-story h2 {
 color:#fff;
-background-color:rgb(49, 24, 24);
+background-color: rgb(202, 175, 202);
 border-radius: .8rem;
 padding: 5px 10px;
-border: solid 2px #76645f;
+border: solid 2px #fff;
 font-size: 24px;
 margin-bottom: 16px;
 }
@@ -67,9 +67,8 @@ margin-bottom: 16px;
 	letter-spacing: .2px;
 	color: #000;
 	line-break:normal;
-	padding: 16px;
-	border-left: solid 2px #c20eb6;
-	border-right: solid 2px #c20eb6;
+	padding: 4px;
+	
 }
 .card-story img {
 	height: auto;

@@ -21,7 +21,7 @@ width: 100%;
 float: left;
 padding: 0;
 margin: 2px;
-border: 2px solid lime;
+border: 2px solid black;
 background-color: rgb(118, 112, 112);
 }
 
@@ -33,7 +33,6 @@ background-color: rgb(118, 112, 112);
 	margin: 0;
 	padding: 0;
 	overflow:hidden;
-	background-color: ;
 }
 
  img {
