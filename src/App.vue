@@ -8,7 +8,7 @@ import Header from './components/Header.vue'
 
 <template>
   <header>
-    <img class="logo" src="@/assets/Bali-logo.png"/>
+    <img class="logo" src="@/assets/Bali-logo.png" alt="Bali logo"/>
 
     <div class="wrapper">
      

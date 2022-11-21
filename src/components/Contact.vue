@@ -20,7 +20,7 @@
 <h3>We usually reply to messages within a day.</h3>
 
 <a href="https://www.instagram.com/tya_priestess_of_bali/">
-<img src="../../resources/logo/ig.png"></a>
+<img src="../../resources/logo/ig.png" alt="instagram logo"></a>
 </div>
 </template>
 

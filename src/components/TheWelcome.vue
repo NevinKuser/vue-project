@@ -73,7 +73,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
 		  msg_p_2="This includes a blessing and purification in the beginning of the session to relieve negative energy and anxiety. One of the main functions of the psycic reading is to uncover the steps needed to reach your goals and your fullest potential." 
 		  phoneNumber="WhatsApp: +62 83119517779">
 		  <template #image>
-			<img src="../../resources/img/ulu/5.jpeg" id="pic">
+			<img src="../../resources/img/ulu/5.jpeg" alt="Jero Tya in Uluwatu, Bali." id="pic">
 		</template>
 		  </Card>
 
@@ -81,7 +81,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
 		  msg_h2="We can help with any illness" 
 		  msg_p_1="We treat cancer, autoimmune disorders, diabetes, weight loss, and can greatly improve mental wellness. This is done through diet, natural medicine, energy healing, yoga, and pranayama."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
-			<img src="../../resources/img/Tya_offerings4.jpg" id="pic">
+			<img src="../../resources/img/Tya_offerings4.jpg" alt="Prayers in Bali" id="pic">
 		</template></Card>
 
 	<Card msg_h1="Chakra cleansing ceremony" 
@@ -102,7 +102,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
 		  msg_p_1="Jero Tya has been guiding people with spiritual advice for years. A private consultation includes talking about what is troubling you and about your goals and where you want to be physically, mentally, spiritually, and emotionally. Please take notes.
 		  You will receive recommendations for daily practices to raise your vibration."  
 		  phoneNumber="WhatsApp: +62 83119517779"><template #image>
-			<img src="../../resources/img/incense_burning.jpg" alt="" id="pic">
+			<img src="../../resources/img/incense_burning.jpg" alt="Jero Tya's prayer offering" id="pic">
 		</template></Card>
 
 		<CardStory msg_h1="Her Story" 
@@ -146,7 +146,7 @@ I'm always working hard to protect the forest and farmland in my village and pro
                 	Indonesia - 
                  Or via Wise using email: marantya87@gmail.com">
                  <template #image>
-			<img src="../../resources/img/sawah.jpg" alt="" id="pic"></template></Card>
+			<img src="../../resources/img/sawah.jpg" alt="Land conservation in east Bali." id="pic"></template></Card>
     <Collage /> 
     
 		<Footer></Footer>
