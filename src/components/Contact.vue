@@ -1,8 +1,12 @@
 <template>
 <div>
-<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+<form 
+name="contact" 
+method="POST" 
+data-netlify="true">
 
   <input value="contact" name="form-name" type="hidden" />
+
   <p>
    <input type="text" name="name" placeholder="Name" />   
   </p>
