@@ -121,10 +121,3 @@ line-height: 2.2rem;
 		}}*/
 </style>
 
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script>
-AOS.init({
-      offset: 400,
-      duration: 1500
-  });
-</script>

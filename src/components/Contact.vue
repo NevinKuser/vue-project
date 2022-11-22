@@ -3,7 +3,7 @@
 <form 
 name="contact" 
 method="POST" 
-data-netlify="true" type="html/css">
+data-netlify="true">
 
   <input value="contact" name="form-name" type="hidden" />
 
@@ -30,7 +30,9 @@ data-netlify="true" type="html/css">
 </div>
 </template>
 
+
 <style scoped>
+
 h3 { font-size: 20px; font-family: inter; margin-top: 20px; }
 
 img { height: 25vh; width: auto; }
@@ -82,3 +84,4 @@ textarea {
 	transition: 2s;
 	color: rgba(red, black, gold);
 }
+</style>
