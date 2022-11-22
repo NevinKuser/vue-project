@@ -120,3 +120,11 @@ line-height: 2.2rem;
 			margin: auto;
 		}}*/
 </style>
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+AOS.init({
+      offset: 400,
+      duration: 1500
+  });
+</script>

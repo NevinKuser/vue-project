@@ -1,10 +1,5 @@
-<script setup src="https://unpkg.com/aos@next/dist/aos.js">
-import TheWelcome from '../components/TheWelcome.vue'
-
-    AOS.init({
-        offset: 400,
-        duration: 1500
-    });
+<script setup>
+import TheWelcome from '../components/TheWelcome.vue'  
     </script>
 
 
@@ -12,5 +7,7 @@ import TheWelcome from '../components/TheWelcome.vue'
   <main>
     <TheWelcome />
   </main>
+  
 </template>
+
 

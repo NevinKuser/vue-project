@@ -81,5 +81,3 @@ textarea {
 	transition: 2s;
 	color: rgba(red, black, gold);
 }
-
-</style>
