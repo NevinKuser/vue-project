@@ -3,7 +3,9 @@
 <form 
 name="contact" 
 method="POST" 
-data-netlify="true">
+data-netlify="true" type="html/css">
+
+  <input value="contact" name="form-name" type="hidden" />
 
   <p>
    <input type="text" name="name" placeholder="Name" />   
@@ -31,7 +33,7 @@ data-netlify="true">
 <style scoped>
 h3 { font-size: 20px; font-family: inter; margin-top: 20px;}
 
-img { height: 35vh; width: auto; }
+img { height: 25vh; width: auto; }
 /*----------------------------------------*/
 /*		     ✨ CONTACT	✨		 		  */
 /*----------------------------------------*/
