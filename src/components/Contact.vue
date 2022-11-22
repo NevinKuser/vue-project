@@ -31,9 +31,10 @@ data-netlify="true" type="html/css">
 </template>
 
 <style scoped>
-h3 { font-size: 20px; font-family: inter; margin-top: 20px;}
+h3 { font-size: 20px; font-family: inter; margin-top: 20px; }
 
 img { height: 25vh; width: auto; }
+
 /*----------------------------------------*/
 /*		     ✨ CONTACT	✨		 		  */
 /*----------------------------------------*/
